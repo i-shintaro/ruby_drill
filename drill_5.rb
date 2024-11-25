@@ -10,4 +10,4 @@ end
 
 #③メソッドが呼ばれ実引数（price）に300が渡される
 #⑤putsでメソッドなにの返り値が出力される
-puts calculate_price_with_tax(price)
+calculate_price_with_tax(price)
